@@ -1,6 +1,6 @@
 {
   "name": "browserify-search",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CLI for searching npm for browserifiable modules via browserifysearch.org.",
   "main": "index.js",
   "bin": {
