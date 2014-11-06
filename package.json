@@ -12,6 +12,10 @@
   "keywords": [
     "browserify"
   ],
+  "repo": {
+    "type": "git",
+    "url": "git@github.com:browserify-search/module.git"
+  },
   "author": "Toby Ho",
   "license": "MIT",
   "dependencies": {
