@@ -1,5 +1,5 @@
-browserify-search
-=================
+browserify-search The Module
+============================
 
 This module makes it convinient to query the [browserifysearch.org](http://browserifysearch.org) service from the commandline or from JavaScript (Node or browser).
 
