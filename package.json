@@ -12,7 +12,7 @@
   "keywords": [
     "browserify"
   ],
-  "repo": {
+  "repository": {
     "type": "git",
     "url": "git@github.com:browserify-search/module.git"
   },
