@@ -5,7 +5,7 @@ This module makes it convinient to query the [browserifysearch.org](http://brows
 
 ## Install
 
-`npm install browserify-search`, with the `-g` flag if you want to install the cli globally on your system.
+`npm install browserify-search`, or with the `-g` flag if you want to install the cli globally on your system.
 
 ## CLI
 
