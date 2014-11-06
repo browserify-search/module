@@ -1,0 +1,22 @@
+{
+  "name": "browserify-search",
+  "version": "0.0.0",
+  "description": "CLI for searching npm for browserifiable modules via browserifysearch.org.",
+  "main": "index.js",
+  "bin": {
+    "browserify-search": "./cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "browserify"
+  ],
+  "author": "Toby Ho",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.0.3",
+    "commander": "^2.5.0",
+    "superagent": "^0.20.0"
+  }
+}
